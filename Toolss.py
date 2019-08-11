@@ -11,10 +11,10 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ========================================
-Created By AnonHacker
-Channel: youtube.com/kalinuxx
-Facebook: facebook.com/kalinuxtutorials
-Ver: 2.0
+Created By Hacking__Beast
+Instagram page - hacking__beast
+
+Ver: 2
 ----
 ONLY FOR TERMUX!
 ----
